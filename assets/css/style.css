@@ -407,15 +407,15 @@ section .container {
   margin: 4px 10px;
 }
 
-.download-resume {
+.download-resume, .visit-site {
   color: #fff;
   margin-left: 22px;
   margin-top: 5px;
 }
 
-.download-resume:hover {
-  color: #4ceb95;
-  font-weight: 600;
+.download-resume:hover .visit-site:hover{
+  color: #18d26e;
+  /* font-weight: 600; */
 }
 
 .section-title p {
