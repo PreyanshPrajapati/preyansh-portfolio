@@ -407,6 +407,17 @@ section .container {
   margin: 4px 10px;
 }
 
+.download-resume {
+  color: #fff;
+  margin-left: 22px;
+  margin-top: 5px;
+}
+
+.download-resume:hover {
+  color: #4ceb95;
+  font-weight: 600;
+}
+
 .section-title p {
   margin: 0;
   margin: -15px 0 15px 0;
