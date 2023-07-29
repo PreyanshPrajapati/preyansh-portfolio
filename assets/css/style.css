@@ -407,10 +407,14 @@ section .container {
   margin: 4px 10px;
 }
 
-.download-resume, .visit-site {
+.download-resume {
   color: #fff;
   margin-left: 22px;
   margin-top: 5px;
+}
+
+.visit-site {
+  color: #fff;
 }
 
 .download-resume:hover .visit-site:hover{
